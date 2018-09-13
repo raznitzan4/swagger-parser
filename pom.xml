@@ -11,7 +11,7 @@
     <artifactId>swagger-parser-project</artifactId>
     <version>1.0.38-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>swagger-parser-project1</name>
+    <name>swagger-parser-project2</name>
     <developers>
         <developer>
             <id>fehguy</id>
